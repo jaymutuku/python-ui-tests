@@ -43,7 +43,7 @@ $ pip freeze > requirements.txt
 ### Running a single test case 
 
 ```bash
-   $ python -m unittest test.test_ui.TestCase
+   $ python -m unittest testcases.test_ui.verifyMessageTest
 ```
 
 ### Running all tests
